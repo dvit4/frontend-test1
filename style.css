@@ -1,0 +1,65 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit';
+}
+
+.box {
+    width: 400px;
+    height: 680px;
+    background-color: hsl(216, 50%, 16%);
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+}
+
+.box img {
+    display: block;
+    margin: 30px auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.box .Equilibrium {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    color: white;
+    font-size: 28px;
+    font-weight: 550;
+}
+
+.box h3 {
+    color: hsl(216, 40%, 42%);
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.etherium {
+    color: hsl(178, 100%, 50%);
+    margin-top: 10px;
+    margin-left: 50px;
+    font-weight: 900px;
+}
+
+.days {
+    color: gray;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-weight: 900px;
+}
+
+.box .image {
+    position: absolute;
+    bottom: 10px;
+    left: 45px;
+
+    width: 50px;
+    height: 50px;
+
+}
